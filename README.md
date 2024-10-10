@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajith Sritharan</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajith04&label=Profile%20views&color=0e75b6&style=flat" alt="ajith04" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajith04&label=Profile%20views&color='1500027'&style=flat" alt="ajith04" /> </p>
 
 - 🌱 I’m currently learning **Angular**
 
