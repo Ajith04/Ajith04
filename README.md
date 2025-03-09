@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajith04&label=Profile%20views&color=green&style=flat" alt="ajith04" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **C# or API**
+- 💬 Ask me about **C# or API or Angular**
 
 - 📫 How to reach me **sritharanajith04@gmail.com**
 
