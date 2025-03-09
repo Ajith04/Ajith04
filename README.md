@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajith Sritharan</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Associate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajith04&label=Profile%20views&color=green&style=flat" alt="ajith04" /> </p>
 
